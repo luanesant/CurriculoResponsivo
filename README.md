@@ -1,1 +1,1 @@
-# https://lusantosbjj1.github.io/CurriculoResponsivo/ 
+https://luanesant.github.io/CurriculoLuane/
